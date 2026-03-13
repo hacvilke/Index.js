@@ -6,14 +6,3 @@
     "start": "node index.js"
   }
 }
-```
-4. Click **Commit new file**
-
-Then go to Render and paste:
-```
-https://github.com/hacvilke/Index.js
-```
-
-And for the **Start Command** put:
-```
-node index.js
